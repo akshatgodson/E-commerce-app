@@ -1,4 +1,4 @@
-# Android-Ecommerce-App
+# E-commerce-App
  ---
 ## Using Tech:
 
